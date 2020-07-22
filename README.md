@@ -1,7 +1,7 @@
 # dockerCourse - INCOMPLETE
 
 - Docker Installation
-  - Scripted Installation by Ansible
+  - [ ] Scripted Installation by Ansible
   - Manual Installation
 
 - Image Management
