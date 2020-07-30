@@ -24,6 +24,10 @@
   - [ ] Executing task on container
   - [ ] Exporting a container
   
+- Registry
+  - [ ] Creating private registry.
+  - [ ] Pushing and pulling image to registry. 
+  
 - Network
   - [ ] Network types
   - [ ] Listing
@@ -43,3 +47,10 @@
   - [ ] Demoting a node from Manager to Worker in Swarm
   - [ ] Inspecting nodes information
   - [ ] Multi Host Overlay network
+  - [ ] Locking and unlocking Swarm initialization
+
+- Service
+  - [ ] What is service ?
+  - [ ] Creating a service
+  - [ ] Controlling replicas of service.
+  - [ ] Service discovery.
