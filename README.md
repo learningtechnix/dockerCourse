@@ -54,3 +54,6 @@
   - [ ] Creating a service
   - [ ] Controlling replicas of service.
   - [ ] Service discovery.
+  - [ ] Modes
+    - [x] Replicated
+    - [x] Global
