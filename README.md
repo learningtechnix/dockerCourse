@@ -1,10 +1,10 @@
 # dockerCourse - INCOMPLETE
 
-- Docker Installation
+- **Docker Installation**
   - [ ] Scripted Installation by Ansible
   - [ ] Manual Installation
 
-- Image Management
+- **Image Management**
   - [ ] Searching
   - [ ] Pulling
   - [ ] Inspection
@@ -14,7 +14,7 @@
   - [ ] Pushing
   - [ ] Building
 
-- Container Management
+- **Container Management**
   - [ ] Listing
   - [ ] Creation
   - [ ] Management (Start/Stop)
@@ -24,11 +24,11 @@
   - [ ] Executing task on container
   - [ ] Exporting a container
   
-- Registry
+- **Registry Management**
   - [ ] Creating private registry.
   - [ ] Pushing and pulling image to registry. 
   
-- Network
+- **Network**
   - [ ] Network types
   - [ ] Listing
   - [ ] Creating Bridge network
@@ -37,7 +37,7 @@
   - [ ] Container DNS
   - [ ] Connecting Nodes with IPVLan
   
-- Swarm
+- **Swarm**
   - [ ] Manager
   - [ ] Workers
   - [ ] Initializing swarm Cluster
@@ -49,7 +49,7 @@
   - [ ] Multi Host Overlay network
   - [ ] Locking and unlocking Swarm initialization
 
-- Service
+- **Service**
   - [ ] What is service ?
   - [ ] Creating a service
   - [ ] Controlling replicas of service.
@@ -57,3 +57,10 @@
   - [ ] Modes
     - [x] Replicated
     - [x] Global
+  - [ ] Setting Node Labels.
+  
+- **Docker Compose**
+  - [ ] Installation
+  - [ ] Creating docker-compose file
+  - [ ] Creating applications.
+  - [ ] Deployment inside swarm cluster
