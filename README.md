@@ -1,4 +1,6 @@
-# dockerCourse - INCOMPLETE
+# docker Course Content
+
+### For any queries email: *learningtechnix@gmail.com*
 
 - **Docker Installation**
   - [ ] Scripted Installation by Ansible
@@ -64,3 +66,7 @@
   - [ ] Creating docker-compose file
   - [ ] Creating applications.
   - [ ] Deployment inside swarm cluster
+
+- **Volumes**
+  - [ ] Understanding Volumes
+  - [ ] Creating and Testing Volumes
